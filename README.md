@@ -1,5 +1,5 @@
 # Airplane-Ticket-Management-JAVASWING---MYSQL
-Đồ án môn : Lập Trình JAVA 
+Đồ án môn : Lập Trình JAVA.
 Mô tả tổng quát : Đồ án được chia theo cấu trúc three-tired ( Mô hình 3 lớp : BUS , GUI ,DTO , DAO ).
 Cơ sở dữ liệu : MYSQL
 Sô thành viên tham gia : 3
